@@ -1,0 +1,10 @@
+{
+  "version": "v1-001",
+  "defaultDuration": 10,
+  "slides": [
+    { "type": "image", "src": "assets/AlloyPT.jpg", "caption": "Alloy Personal Training", "duration": 10 },
+    { "type": "image", "src": "assets/ReferralPromo.jpg", "caption": "Referral Promo", "duration": 10 },
+    { "type": "image", "src": "assets/MacroWorkshop.jpg", "caption": "Macro Workshop", "duration": 10 },
+    { "type": "image", "src": "assets/MemberHike.jpg", "caption": "Member Hike", "duration": 10 }
+  ]
+}
