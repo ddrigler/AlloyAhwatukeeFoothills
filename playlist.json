@@ -5,7 +5,6 @@
     { "type": "image", "src": "assets/AlloyPT.jpg", "duration": 10 },
     { "type": "image", "src": "assets/ResReboot.jpg", "duration": 25 },
     { "type": "image", "src": "assets/ReferralPromo.jpg", "duration": 15 },
-    { "type": "image", "src": "assets/MacroWorkshop.jpg", "duration": 20 },
     { "type": "image", "src": "assets/MemberHike.jpg", "duration": 20 }
   ]
 }
